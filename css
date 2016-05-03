@@ -1,0 +1,16 @@
+//css stylesheet
+
+@media (min-width: 768px) and (max-width: 991px) {
+	.col-lg-4 
+	{
+	float: left;
+}
+
+	#p1 {width: 33%}
+}
+
+@media (min-width: 992px) {
+
+}
+
+
